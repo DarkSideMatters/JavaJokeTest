@@ -1,0 +1,4 @@
+testex\NewTestSuite.class
+testex\jokefetching\FetcherFactoryTest.class
+testex\DateFormatterTest.class
+testex\JokeFetcherTest.class
